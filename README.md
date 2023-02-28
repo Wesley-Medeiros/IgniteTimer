@@ -25,7 +25,8 @@ Projeto foi desenvolvido em cima de uma aplicação React ultilizando o Vite, co
 
 ## 🖼️ Imagens do Projeto
 
-  ![screen-capture](https://user-images.githubusercontent.com/85140172/173465440-6a3f7fde-035c-406a-a8c6-baf5103b7abe.gif)
+  ![image](https://user-images.githubusercontent.com/112018277/221916546-f178250e-164e-4ed3-90a1-de80c1ecfacf.png)
+
 
 
 ## 🧰 Tecnologias e Bibliotecas
